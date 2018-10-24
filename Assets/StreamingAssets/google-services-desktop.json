@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "458915947878",
+    "firebase_url": "https://ssup2018-12aab.firebaseio.com",
+    "project_id": "ssup2018-12aab",
+    "storage_bucket": "ssup2018-12aab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458915947878:android:8ac2e7dbe0407ed2",
+        "android_client_info": {
+          "package_name": "com.continuum.SSUP"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458915947878-rp4g2maocsrmb7co90q1ili9r4h2m0bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxEaWj8BCXnoG__fPL7Nf6XFbPen6brv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
